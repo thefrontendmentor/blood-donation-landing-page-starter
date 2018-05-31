@@ -21,7 +21,7 @@ Have fun building!
 ### Gradients
 - Body background: `linear rgba(255,255,255,0.03) to rgba(184,201,229,1) at 165 degrees`
 - Body background: `radial circle rgb(238,184,189) to rgb(255,255,255) at 75% from left and 75% from top`
-- Call-to-action: `rgb(249,149,194) to rgb(232,133,173)`
+- Call-to-action: `linear rgb(249,149,194) to rgb(232,133,173)`
 
 ### Shades
 - Dark (for body copy): `rgb(86,98,112)` 
