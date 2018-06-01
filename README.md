@@ -1,6 +1,8 @@
 # Frontend Mentor - Blood Donation Landing Page Challenge
 
-![Design file for the Blood Donation Landing Page Challenge](./design/blood-donation-landing-design.jpg)
+![Design by Clément Marie for the Blood Donation Landing Page Challenge](./design/blood-donation-landing-design.jpg)
+
+Design by: [Clément Marie](http://clement-marie.fr/)
 
 Welcome! Thanks for checking out this front-end coding challenge. 
 
